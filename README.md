@@ -20,11 +20,11 @@ Second column : edge image extracted by Sobel filter
 Third column : result of sketchKeras
 
 ![](outputs/1234461-cat.jpg)
-(Original image from [https://safebooru.org/index.php?page=post&s=view&id=1234461]())
+(Original image from https://safebooru.org/index.php?page=post&s=view&id=1234461)
 ![](outputs/Hokusai-cat.jpg)
-(Original image from [https://www.metmuseum.org/art/collection/search/45434?searchField=All&amp;sortBy=Relevance&amp;ft=Katsushika+Hokusai&amp;offset=0&amp;rpp=20&amp;pos=1]())
+(Original image from https://www.metmuseum.org/art/collection/search/45434?searchField=All&amp;sortBy=Relevance&amp;ft=Katsushika+Hokusai&amp;offset=0&amp;rpp=20&amp;pos=1)
 ![](outputs/output-small.gif)
-(Original image from [https://safebooru.org/index.php?page=post&s=view&id=3066528]())
+(Original image from https://safebooru.org/index.php?page=post&s=view&id=3066528)
 
 ## (My) Environments
 - python (3.7.7)
