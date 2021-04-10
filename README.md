@@ -23,15 +23,28 @@ Explanation of some args.
 If you are interested in the way to convert the weight file of the original implementation to this project, see `src/fromkeras.py`
 
 ## Examples
-This program works with pictures at ANY resolution.
+This program works with pictures at ANY resolution. (Pictrues are from Internet. If there is a copyright infringement, please contact me to delete them.)
 
 First: original image  
 Second: gray image  
 Third: result of sketchKeras
 
+![](save/train/color/pixiv_378.jpg)
+![](save/train/gray/pixiv_378.jpg)
+![](save/train/sketch/pixiv_378.jpg)
+
 ![](save/train/color/pixiv_1265.jpg)
 ![](save/train/gray/pixiv_1265.jpg)
 ![](save/train/sketch/pixiv_1265.jpg)
+
+![](save/train/color/pixiv_44.png)
+![](save/train/gray/pixiv_44.png)
+![](save/train/sketch/pixiv_44.png)
+
+![](save/train/color/pixiv_532.jpg)
+![](save/train/gray/pixiv_532.jpg)
+![](save/train/sketch/pixiv_532.jpg)
+
 
 ## (My) Environments
 - python (3.7.7)
