@@ -28,8 +28,6 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--mode", type=str)
-    parser.add_argument("--port", type=str)
     parser.add_argument(
         "--input", "-i", type=str, default="read/", help="input images"
     )
